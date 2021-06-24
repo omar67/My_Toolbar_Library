@@ -1,6 +1,8 @@
 # My_Toolbar_Library
 This is a simple library which contains a custom toolbar and constraint layout that provide a modern look.
+The library colors changes based on the application primary color and on primary color.
 
+An example is provided to examine the library
 
 # How to use
 To use this library you need to follow the simple instruction:
@@ -19,7 +21,7 @@ To use this library you need to follow the simple instruction:
   Step 2. Add the dependency
   ```javascript
     dependencies {
-            implementation 'com.github.omar67.My_Toolbar_Library:app:053c657ece'
+            implementation 'com.github.omar67.My_Toolbar_Library:modern-container:app:053c657ece'
       }
 ```
 
