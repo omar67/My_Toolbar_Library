@@ -1,3 +1,3 @@
 rootProject.name = "My Toolbar"
 include ':app'
-include ':mylibrary'
+include ':modern-container'
